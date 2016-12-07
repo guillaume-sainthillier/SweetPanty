@@ -1,2 +1,10 @@
-app.title: Sweet Pants - Dirty Pants buying
-wore_since: '{0}Wore just now|{1}Wore since %label% day|[1,Inf[Wore since %label% days'
+app.brand: Sweet Pants
+
+homepage.title: Top dirty pants of the day
+underwar.wore_since: '{0}Wore just now|{1}Wore since %label% day|[1,Inf[Wore since %label% days'
+
+menu.admin: Administration
+menu.login: Login
+menu.my_account: Mon Compte
+menu.register: Register
+menu.logout: Logout
