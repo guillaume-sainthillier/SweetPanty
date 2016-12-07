@@ -36,4 +36,12 @@ abstract class Feature
     {
         return $this->id;
     }
+
+    public function __toString()
+    {
+        return sprintf(
+            "#%d",
+            $this->getId()
+        );
+    }
 }

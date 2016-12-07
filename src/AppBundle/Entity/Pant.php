@@ -126,4 +126,13 @@ abstract class Pant
     {
         return $this->feature;
     }
+
+    public function __toString()
+    {
+        return sprintf(
+            "#%d (%s)",
+            $this->getId(),
+            $this->getName()
+        );
+    }
 }
