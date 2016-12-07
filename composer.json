@@ -31,7 +31,8 @@
         "javiereguiluz/easyadmin-bundle": "^1.14",
         "vich/uploader-bundle": "^1.1",
         "lexik/maintenance-bundle": "dev-master",
-        "google/recaptcha": "~1.1"
+        "google/recaptcha": "~1.1",
+        "doctrine/doctrine-fixtures-bundle": "dev-master"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",

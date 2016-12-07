@@ -1,4 +1,5 @@
 app.brand: Sweet Pants
+app.title: Sweet Pants - Buy dirty pants each day
 
 homepage.title: Top dirty pants of the day
 underwar.wore_since: '{0}Wore just now|{1}Wore since %label% day|[1,Inf[Wore since %label% days'
