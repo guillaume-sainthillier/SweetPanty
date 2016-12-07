@@ -5,6 +5,6 @@ underwar.wore_since: '{0}Wore just now|{1}Wore since %label% day|[1,Inf[Wore sin
 
 menu.admin: Administration
 menu.login: Login
-menu.my_account: Mon Compte
+menu.my_account: Account
 menu.register: Register
 menu.logout: Logout
